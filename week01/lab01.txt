@@ -20,3 +20,4 @@ drwxr-xr-x  2 ratna.nur StafCS 4096 Feb 18 11:51 week09
 drwxr-xr-x  2 ratna.nur StafCS 4096 Feb 18 11:52 week10
 drwxr-xr-x  2 ratna.nur StafCS 4096 Feb 18 11:52 xtra
 /home/fasilkom/mahasiswa/r/ratna.nur/os171/week01
+Today is 18 Feb 2017 at 12:48:01
