@@ -1,11 +1,3 @@
-w01-170214-13-LR-About: HKI dan Lisensi, From: Lecturer
-w01-170214-13-LR-About: HKI dan Lisensi, From: Lecturer
-w01-170214-14-LR-About: Scripting, From: Lecturer
-w01-170214-14-LR-About: Scripting, From: Lecturer
-w01-170216-13-LR-About: Scripting, From: Lecturer
-w01-170216-13-LR-About: Scripting, From: Lecturer
-w01-170216-14-LR-About: Scripting, From: Lecturer
-w01-170216-14-LR-About: Scripting, From: Lecturer
 w02-170221-13-LR-About: Protection and Security, From: Lecturer
 w02-170221-13-LR-About: Protection and Security, From: Lecturer
 w02-170221-14-LR-About: Protection and Security, From: Lecturer
