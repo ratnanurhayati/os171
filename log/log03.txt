@@ -1,0 +1,8 @@
+w03-170228-13-LR-About: BIOS and UEFI, From: Lecturer
+w03-170228-13-LR-About: BIOS and UEFI, From: Lecturer
+w03-170228-14-LR-About: BIOS and UEFI, From: Lecturer
+w03-170228-14-LR-About: BIOS and UEFI, From: Lecturer
+w03-170302-13-LR-About: Linux Booting Procedure, From: Lecturer
+w03-170302-13-LR-About: Linux Booting Procedure, From: Lecturer
+w03-170302-14-LR-About: Linux Booting Procedure, From: Lecturer
+w03-170302-14-LR-About: Linux Booting Procedure, From: Lecturer
