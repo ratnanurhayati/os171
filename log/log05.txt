@@ -1,0 +1,8 @@
+w05-170314-13-LR-About: Main Memory, From: Lecturer
+w05-170314-13-LR-About: Main Memory, From: Lecturer
+w05-170314-14-LR-About: Main Memory, From: Lecturer
+w05-170314-14-LR-About: Main Memory, From: Lecturer
+w05-170316-13-LR-About: Effective Access Time & Virtual Memory, From: Lecturer
+w05-170316-13-LR-About: Effective Access Time & Virtual Memory, From: Lecturer
+w05-170316-14-LR-About: Effective Access Time & Virtual Memory, From: Lecturer
+w05-170316-14-LR-About: Effective Access Time & Virtual Memory, From: Lecturer
