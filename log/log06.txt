@@ -1,0 +1,9 @@
+w06-170411-13-LR-About: Semaphore, From: Lecturer
+w06-170411-13-LR-About: Semaphore, From: Lecturer
+w06-170411-14-LR-About: Exercise About Semaphore, From: Lecturer
+w06-170411-14-LR-About: Exercise About Semaphore, From: Lecturer
+w06-170413-13-LR-About: Synchronization, From: Lecturer
+w06-170413-13-LR-About: Synchronization, From: Lecturer
+w06-170413-14-LR-About: Exercise About Synchronization, From: Lecturer
+w06-170413-14-LR-About: Exercise About Synchronization, From: Lecturer
+
